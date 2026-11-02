@@ -1,0 +1,29 @@
+{
+  "idea": "mypaymentstracker",
+  "templateId": "signature",
+  "content": {
+    "siteKind": "product",
+    "title": "MyPaymentsTracker",
+    "tagline": "Track every expense effortlessly",
+    "intro": "A simple web app that lets you log, categorize, and visualize personal payments so you always know where your money goes.",
+    "sections": [
+      {
+        "title": "Log payments fast",
+        "body": "Add transactions in seconds with auto‑complete categories and date pickers."
+      },
+      {
+        "title": "See spending trends",
+        "body": "Dynamic charts show where you spend most each month, week, or year."
+      },
+      {
+        "title": "Stay on budget",
+        "body": "Set budget limits and get alerts when you approach them."
+      }
+    ],
+    "cta": {
+      "label": "Try it now",
+      "note": "Free signup, no credit card required"
+    },
+    "footerNote": "Your money, clearly"
+  }
+}
